@@ -42,7 +42,7 @@ Now its time to execute **main_gui.py**
 
 ```
 it will show following Output
-<img src="main_gui.py">
+<img src="Binary_Quiz.PNG">
 
 ## Download
 :paperclip: [Download Here](https://github.com/geosaleh/Binary_Quiz/archive/refs/heads/main.zip)
