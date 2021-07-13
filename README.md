@@ -1,9 +1,9 @@
 # Binary_Quiz
-Python Binary Quiz
+Python Script Binary Quiz Game
 
 <img src="Binary_Quiz_code.png">
 
-## This is a Binary Quiz Game.
+## This is Binary Quiz Game.
 
 #### The modules Used to make this script are:-
 
